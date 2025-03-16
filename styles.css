@@ -1,0 +1,27 @@
+/* Subscribe Section */
+#subscribeSection {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background: crimson;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkred;
+}
